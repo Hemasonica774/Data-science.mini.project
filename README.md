@@ -1,5 +1,6 @@
 # Data-science.mini.project
 # DATA ANALYSIS
+
 # AIM:
 
 To Perform Data Analysis on the given dataset and save the data to a file.
@@ -13,13 +14,13 @@ Data analytics is important because it helps businesses optimize their performan
 # STEP 1
 Read the given Data
 
-#STEP 2
+# STEP 2
 Clean the Data Set using Data Cleaning Process
 
 # STEP 3
 Apply Feature generation and selection techniques to all the features of the data set
 
-#STEP 4
+# STEP 4
 Apply data visualization techniques to identify the patterns of the data.
 
 # CODE:
@@ -99,7 +100,7 @@ plt.show()
 
 ```
 
-OUTPUT:
+# OUTPUT:
 
 ![image](https://github.com/Hemasonica774/Data-science.mini.project/assets/118361409/bc5555ed-ecad-4297-89c3-d47ce84ddb33)
 
@@ -132,7 +133,7 @@ OUTPUT:
 ![image](https://github.com/Hemasonica774/Data-science.mini.project/assets/118361409/21db9512-0a49-4393-b795-45767fa2f62b)
 
 
-#Result:
+# Result:
 
 Thus, Data analysis is performed on the given dataset and save the data to a file
 
