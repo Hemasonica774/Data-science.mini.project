@@ -130,6 +130,9 @@ plt.show()
 
 ![image](https://github.com/Hemasonica774/Data-science.mini.project/assets/118361409/e7a357f7-f633-415a-b0f8-3f12ff2556e6)
 
+![Screenshot 2023-05-21 185613](https://github.com/Hemasonica774/Data-science.mini.project/assets/118361409/87c9f635-6663-4e72-b50d-e74b8de59cff)
+
+
 ![image](https://github.com/Hemasonica774/Data-science.mini.project/assets/118361409/21db9512-0a49-4393-b795-45767fa2f62b)
 
 
